@@ -1,0 +1,18 @@
+header{
+    text-align: center;
+}
+header .app-logo{
+    width: 100%;
+    height: auto;
+    max-width: 450px;
+    padding-left: 15px;
+    margin: 20px 0 20px 0;
+}
+header nav a:hover{
+    background-color: #24211c;
+}
+
+.app-header{
+    background-color: #EDEBE6;
+    color: #24211c;
+}

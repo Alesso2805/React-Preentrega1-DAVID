@@ -1,0 +1,10 @@
+.cart-widget-style{
+    color: #EDEBE6;
+    text-decoration: none;
+}
+
+.cart-quantity{
+    margin-left: 10px;
+    margin-top: 6px;
+    font-size: small;
+}
